@@ -118,7 +118,7 @@ export default function GemologyPage() {
         >
           <p className="text-lg text-gray-700 leading-relaxed mb-6">
             The gemology center represents my professional commitment to understanding and advancing knowledge about precious gemstones. 
-            With a focus on Ceylon's rich gem heritage, I explore authentication, market analysis, and the preservation of traditional craftsmanship.
+            With a focus on Ceylon&apos;s rich gem heritage, I explore authentication, market analysis, and the preservation of traditional craftsmanship.
           </p>
           <p className="text-lg text-gray-700 leading-relaxed">
             Each gemstone tells a story—of geological formation, historical significance, and market value. This platform documents 
@@ -131,7 +131,7 @@ export default function GemologyPage() {
       <section className="container-custom section-padding bg-gradient-to-br from-primary-50 via-white to-accent-gold/5 rounded-3xl">
         <SectionHeader
           title="Featured Gemstones"
-          description="A curated collection of Ceylon's most significant precious gems"
+          description="A curated collection of Ceylon&apos;s most significant precious gems"
         />
 
         <motion.div

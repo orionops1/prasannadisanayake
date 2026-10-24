@@ -321,7 +321,7 @@ export default function Home() {
           className="bg-gradient-to-r from-primary-500 to-accent-emerald rounded-3xl p-12 md:p-16 text-center text-white"
         >
           <h2 className="text-4xl font-serif font-bold mb-4">
-            Let's Collaborate
+            Let&apos;s Collaborate
           </h2>
           <p className="text-lg mb-8 max-w-2xl mx-auto text-white/90">
             Interested in discussing gemology, exploring business opportunities, or technology partnerships?

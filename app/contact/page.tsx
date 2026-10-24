@@ -10,7 +10,7 @@ export default function ContactPage() {
       <HeroSection
         title="Get in Touch"
         subtitle="Contact"
-        description="Have questions or interested in collaboration? I'd love to hear from you."
+        description="Have questions or interested in collaboration? I&apos;d love to hear from you."
       />
 
       {/* Contact Section */}

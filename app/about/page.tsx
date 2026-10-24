@@ -234,7 +234,7 @@ export default function AboutPage() {
             Ready to Connect?
           </h2>
           <p className="text-lg mb-8 max-w-2xl mx-auto">
-            Whether you're interested in gemology, exploring business opportunities, or technology collaboration, I'd love to connect.
+            Whether you&apos;re interested in gemology, exploring business opportunities, or technology collaboration, I&apos;d love to connect.
           </p>
           <button className="px-8 py-4 bg-accent-gold text-primary-500 rounded-lg font-semibold hover:bg-white transition-colors">
             Get in Touch
